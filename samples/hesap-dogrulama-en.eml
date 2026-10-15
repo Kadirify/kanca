@@ -1,0 +1,21 @@
+Return-Path: <no-reply@secure-mailer-204.click>
+Received: from secure-mailer-204.click (secure-mailer-204.click [198.51.100.9])
+	by mx.ornekposta.com (Postfix) with ESMTP id 3E4F2
+	for <john@ornekposta.com>; Thu, 16 Oct 2025 22:41:30 +0300 (+03)
+Authentication-Results: mx.ornekposta.com; spf=pass smtp.mailfrom=secure-mailer-204.click; dkim=pass header.d=secure-mailer-204.click; dmarc=none
+DKIM-Signature: v=1; a=rsa-sha256; d=secure-mailer-204.click; s=k1; h=from:subject; bh=x=; b=y=
+From: "Microsoft account team <account-security-noreply@accountprotection.microsoft.com>" <alerts@secure-mailer-204.click>
+To: john@ornekposta.com
+Subject: Re: Unusual sign-in activity
+Date: Thu, 16 Oct 2025 22:41:12 +0300
+Message-ID: <7f3a9@secure-mailer-204.click>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Dear user,</p>
+<p>We detected unusual sign-in activity on your Microsoft account from an unrecognized device. If this wasn't you, your account will be locked within 48 hours.</p>
+<p><a href="https://bit.ly/3xmsftverify">Verify your account</a> to keep access.</p>
+<p>You may be asked to confirm your password and one-time code.</p>
+<p>Thanks,<br>The Microsoft account team</p>
+</body></html>

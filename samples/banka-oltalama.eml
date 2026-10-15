@@ -1,0 +1,27 @@
+Return-Path: <bounce@mail-notify-8831.xyz>
+Received: from mail-notify-8831.xyz (unknown [185.234.72.19])
+	by mx.ornekposta.com (Postfix) with ESMTP id 4F2A1C0D3
+	for <ayse@ornekposta.com>; Mon, 13 Oct 2025 09:14:02 +0300 (+03)
+Received: from [192.168.1.77] (unknown [192.168.1.77])
+	by mail-notify-8831.xyz (Postfix) with ESMTPA id 1B33E
+	for <ayse@ornekposta.com>; Mon, 13 Oct 2025 09:13:55 +0300 (+03)
+Authentication-Results: mx.ornekposta.com; spf=fail smtp.mailfrom=mail-notify-8831.xyz; dkim=none; dmarc=fail header.from=garantibbva-guvenlik.com
+From: "Garanti BBVA Musteri Hizmetleri" <bilgi@garantibbva-guvenlik.com>
+Reply-To: destek@garanti-dogrulama.top
+To: ayse@ornekposta.com
+Subject: ACIL: Hesabiniz 24 saat icinde askiya alinacak!
+Date: Mon, 13 Oct 2025 09:13:50 +0300
+Message-ID: <20251013061350.1b33e@mail-notify-8831.xyz>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<html><body>
+<p>Sayın müşterimiz,</p>
+<p>Hesabınızda yetkisiz giriş denemesi tespit edilmiştir. Güvenliğiniz için hesabınızı <b>24 saat içinde</b> doğrulamanız gerekmektedir, aksi halde hesabınız askıya alınacaktır.</p>
+<p>Hesabınızı doğrulamak için tıklayın: <a href="http://garantibbva.com.tr.hesap-dogrula.top/giris?u=ayse">https://www.garantibbva.com.tr/internet-bankaciligi</a></p>
+<p>Lütfen giriş yaparken müşteri numaranızı, şifrenizi ve SMS doğrulama kodunuzu hazır bulundurun.</p>
+<p style="font-size:0;color:#ffffff">lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt</p>
+<img src="http://mail-notify-8831.xyz/o.gif?id=ayse" width="1" height="1">
+<p>Garanti BBVA Güvenlik Ekibi</p>
+</body></html>

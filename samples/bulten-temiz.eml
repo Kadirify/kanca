@@ -1,0 +1,27 @@
+Return-Path: <bounce+a9f1@bulten.ornekdergi.com>
+Received: from mta3.bulten.ornekdergi.com (mta3.bulten.ornekdergi.com [203.0.113.21])
+	by mx.ornekposta.com (Postfix) with ESMTPS id 9A77D
+	for <ayse@ornekposta.com>; Wed, 15 Oct 2025 08:00:12 +0300 (+03)
+Authentication-Results: mx.ornekposta.com; spf=pass smtp.mailfrom=bulten.ornekdergi.com; dkim=pass header.d=ornekdergi.com; dmarc=pass header.from=ornekdergi.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ornekdergi.com; s=mta; h=from:to:subject:date; bh=abc=; b=def=
+From: "Örnek Dergi" <haber@ornekdergi.com>
+To: ayse@ornekposta.com
+Subject: Bu haftanın yazıları: açık kaynak harita motorları
+Date: Wed, 15 Oct 2025 08:00:00 +0300
+Message-ID: <bulten-2025-42@ornekdergi.com>
+List-Unsubscribe: <https://ornekdergi.com/abonelik/cik?t=a9f1>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<html><body>
+<p>Merhaba Ayşe,</p>
+<p>Bu hafta üç yazı var:</p>
+<ul>
+<li><a href="https://ornekdergi.com/yazi/maplibre-ile-baslangic">MapLibre ile başlangıç</a></li>
+<li><a href="https://ornekdergi.com/yazi/vektor-karolar">Vektör karolar neden hızlı</a></li>
+<li><a href="https://ornekdergi.com/yazi/osrm-rota">OSRM ile rota hesaplama</a></li>
+</ul>
+<p>İyi okumalar.</p>
+<p style="color:#888">Aboneliği sonlandırmak için <a href="https://ornekdergi.com/abonelik/cik?t=a9f1">buraya</a> tıklayın.</p>
+</body></html>

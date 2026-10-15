@@ -1,0 +1,21 @@
+Return-Path: <service@pp-resolution-center.online>
+Received: from mail.pp-resolution-center.online (mail.pp-resolution-center.online [203.0.113.77])
+	by mx.example.com (Postfix) with ESMTP id 5D2B1
+	for <alex@example.com>; Fri, 17 Oct 2025 07:22:41 +0000 (UTC)
+Authentication-Results: mx.example.com; spf=pass smtp.mailfrom=pp-resolution-center.online; dkim=none; dmarc=fail header.from=paypal.com
+From: "PayPal" <service@paypal.com>
+Reply-To: resolution@pp-resolution-center.online
+To: alex@example.com
+Subject: Your account has been limited - action required
+Date: Fri, 17 Oct 2025 07:22:30 +0000
+Message-ID: <0a77c1@pp-resolution-center.online>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body>
+<p>Dear customer,</p>
+<p>We noticed unusual activity on your PayPal account. As a precaution, your account access has been limited.</p>
+<p>To restore full access, please <a href="https://paypal.com.account-restore.pp-resolution-center.online/signin">confirm your account details</a> within 48 hours. If we don't hear from you, your account will be closed permanently.</p>
+<p>You will need your password and card number to complete verification.</p>
+<p>Thank you,<br>PayPal Security Team</p>
+</body></html>
