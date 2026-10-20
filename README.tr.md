@@ -6,6 +6,8 @@ Kanca bir e-postanın ham kaynağını bir güvenlik uzmanı gibi okur: gerçekt
 
 Tamamen tarayıcıda çalışır. Yapıştırdığın mail hiçbir yere yüklenmez.
 
+**Dene:** [kanca.kadirify.com](https://kanca.kadirify.com/)
+
 [English](README.md)
 
 ## Neden

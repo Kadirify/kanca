@@ -6,6 +6,8 @@ Kanca ("hook" in Turkish) reads the raw source of an email the way a security pe
 
 It runs entirely in your browser. The email you paste is not uploaded anywhere.
 
+**Try it:** [kanca.kadirify.com](https://kanca.kadirify.com/)
+
 [Türkçe](README.tr.md)
 
 ## Why

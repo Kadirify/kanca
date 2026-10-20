@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "description": "Paste a suspicious email, see exactly why it is phishing.",
   "license": "MIT",
+  "homepage": "https://kanca.kadirify.com/",
   "repository": {
     "type": "git",
     "url": "https://github.com/Kadirify/kanca.git"
