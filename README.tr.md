@@ -10,6 +10,8 @@ Tamamen tarayıcıda çalışır. Yapıştırdığın mail hiçbir yere yüklenm
 
 [English](README.md)
 
+![Kanca rapor ekranı](docs/img/ekran-goruntusu.jpg)
+
 ## Neden
 
 Oltalamayla ilgili tavsiyelerin çoğu "dikkatli olun"a çıkıyor. Mail bankanınkinin aynısı gibi görünüyorsa bunun pek faydası yok. Ben doğrudan satırı gösteren bir şey istedim: sorun bu, nedeni de bu.

@@ -10,6 +10,8 @@ It runs entirely in your browser. The email you paste is not uploaded anywhere.
 
 [Türkçe](README.tr.md)
 
+![Kanca report screen](docs/img/ekran-goruntusu.jpg)
+
 ## Why
 
 Most phishing advice boils down to "be careful". That doesn't help much when the email looks exactly like your bank. I wanted something that points at the actual line and says: this is the problem, and here's why.
