@@ -1,5 +1,7 @@
 # Kanca
 
+![Kanca](docs/img/kapak.webp)
+
 Paste a suspicious email, see exactly why it's phishing.
 
 Kanca ("hook" in Turkish) reads the raw source of an email the way a security person would: who really sent it, which server it came through, where the links actually go, what the attachments are. Then it shows you the parts that give it away, highlighted right on the source, with a short note on why each one matters.

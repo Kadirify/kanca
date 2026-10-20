@@ -1,5 +1,7 @@
 # Kanca
 
+![Kanca](docs/img/kapak.webp)
+
 Şüpheli bir maili yapıştır, neden oltalama olduğunu gör.
 
 Kanca bir e-postanın ham kaynağını bir güvenlik uzmanı gibi okur: gerçekte kim göndermiş, hangi sunucudan geçmiş, bağlantılar aslında nereye gidiyor, ekler ne. Sonra ele veren kısımları kaynağın üstünde işaretler ve her birinin neden önemli olduğunu kısaca yazar.
